@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    /* justify-content: center; */
+    padding: 20px;
+}
+
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 1px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: brown;
+    
+}
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(50, 46, 243);
+    
+}
+
+.ball {
+    position:absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
